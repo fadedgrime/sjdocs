@@ -19,7 +19,7 @@ Users with the rank of Operations Technician and above receive admin permissions
 | Developer, Development Director, Guest Experience Director, Communications Director (SHR) | Senior Administrator |
 | Vice President, President, Chief Operating Officer, Chief Executive Officer (Leadership) | Creator |
 
-### Important:
+### Important
 * You cannot run commands on users with a higher admin level than your own.
 * Do not run commands on users below you unless it is necessary and appropriate.
 
@@ -31,11 +31,11 @@ Below is a list of essential commands and their requirements. Some commands have
 | Command | Admin Level Required | Restrictions / Notes |
 |-------------|---------------------------|----------------------------|
 | `:cmds` | None | Displays all commands available to you. |
-| `:to` | None | Teleports you to a specified user in the server. |
-| `:bring` | None | Avoid using on higher ranks or staff unless necessary. |
-| `:chatlogs` | None | View chat logs for the current server. |
-| `:logs` | None | View all commands executed in the server. |
-| `:handtologs` | Administrator+ | View logs of items handed between users. |
+| `:to` | Moderator | Teleports you to a specified user in the server. |
+| `:bring` | Administrator | Avoid using on higher ranks or staff unless necessary. |
+| `:chatlogs` | Moderator | View chat logs for the current server. |
+| `:logs` | Moderator | View all commands executed in the server. |
+| `:handtologs` | Administrator | View logs of items handed between users. |
 
 ### Safeguards
 To maintain a fair and responsible admin system, the following safeguards are in place:
