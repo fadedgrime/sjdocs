@@ -19,7 +19,7 @@ Users with the rank of Operations Technician and above receive admin permissions
 | Developer, Development Director, Guest Experience Director, Communications Director (SHR) | Senior Administrator |
 | Vice President, President, Chief Operating Officer, Chief Executive Officer (Leadership) | Creator |
 
-**Important:**
+### Important:
 * You cannot run commands on users with a higher admin level than your own.
 * Do not run commands on users below you unless it is necessary and appropriate.
 
