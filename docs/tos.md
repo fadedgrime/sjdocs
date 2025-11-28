@@ -17,7 +17,7 @@ When using our documentation or services, you agree **not** to:
 * **Malicious Actions:** Upload, share, or distribute viruses, worms, malware, or any malicious code intended to harm, disrupt, or compromise Summit Jump services.
 * **Impersonation:** Pretend to be Summit Jump staff, other users, or any third party while using our services.
 * **Exploitation of Bugs:** Use, share, or take advantage of exploits, bugs, or loopholes for personal gain or to disrupt our platform.
-* **Bypassing Restrictions:** Attempt to bypass restrictions, protections, or limitations placed on our services, content, or user access.
+* **Bypass Restrictions:** Attempt to bypass restrictions, protections, or limitations placed on our services, content, or user access.
 
 ---
 
