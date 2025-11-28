@@ -40,5 +40,5 @@ Here are the most commonly asked questions and their answers. Before reaching ou
 <details>
   <summary>How do I report a bug or contact support?</summary>
 
-  If you run into any issues, you can reach out to our support team through the Discord server. Our staff members are always happy to help.
+  If you run into any issues, you can reach out to our support team through our Discord server. Our staff members are always happy to help.
 </details>
