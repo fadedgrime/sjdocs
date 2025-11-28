@@ -13,8 +13,8 @@ const config: Config = {
   },
 
   // Site URL
-  url: 'https://docs.summitjump.wiki',
-  baseUrl: '/',
+  url: 'https://fadedgrime.github.io',
+  baseUrl: '/sjdocs/',
 
   // GitHub pages
   organizationName: 'Summit Jump',
